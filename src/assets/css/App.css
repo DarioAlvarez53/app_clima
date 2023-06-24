@@ -28,12 +28,12 @@ body {
 .card-temp {
   position: absolute;
   padding-left: 20px;
-  margin-top: 240px;
+  margin-top: 220px;
   font-size: 50px;
 }
 
 .card-desc {
   position: absolute;
   padding-left: 20px;
-  margin-top: 290px;
+  margin-top: 275px;
 }
